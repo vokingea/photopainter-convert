@@ -1,0 +1,67 @@
+# Do not commit images
+
+# JPEG
+*.jpg
+*.jpeg
+*.jpe
+
+# PNG
+*.png
+
+# Bitmap
+*.bmp
+*.dib
+
+# GIF
+*.gif
+
+# WebP
+*.webp
+
+# TIFF
+*.tif
+*.tiff
+
+# HEIF / HEIC
+*.heif
+*.heic
+
+# RAW formats
+*.raw
+*.cr2
+*.cr3
+*.nef
+*.nrw
+*.arw
+*.dng
+*.orf
+*.rw2
+*.raf
+*.pef
+*.srw
+
+# Vector formats
+*.svg
+*.eps
+*.ai
+
+# Other image formats
+*.ico
+*.icns
+*.psd
+*.xcf
+*.tga
+*.dds
+*.exr
+*.hdr
+*.jxl
+*.avif
+*.jp2
+*.j2k
+*.ppm
+*.pgm
+*.pbm
+*.pnm
+*.pcx
+*.sgi
+*.cur
